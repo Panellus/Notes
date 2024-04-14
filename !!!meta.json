@@ -1,0 +1,357 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.63.5",
+	"files": [
+		{
+			"noteId": "w4LG79FL4GZk",
+			"notePath": [
+				"w4LG79FL4GZk"
+			],
+			"isClone": false,
+			"title": "Forensics",
+			"notePosition": 70,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"format": "html",
+			"dirFileName": "Forensics",
+			"noImport": false,
+			"attributes": [],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "KkEUg0aWacqI",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"KkEUg0aWacqI"
+					],
+					"isClone": false,
+					"title": "Dictionary Attack",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Dictionary Attack.html",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "forensics",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "dictionaryattack",
+							"isInheritable": false,
+							"position": 20
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "aircrack-ng",
+							"isInheritable": false,
+							"position": 30
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "handshake",
+							"isInheritable": false,
+							"position": 40
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "rockyou",
+							"isInheritable": false,
+							"position": 50
+						}
+					],
+					"attachments": []
+				},
+				{
+					"noteId": "Kj4D65g5krhw",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"Kj4D65g5krhw"
+					],
+					"isClone": false,
+					"title": "Drilske Dæknavne - EMAIL",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Drilske Dæknavne - EMAIL.html",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "forensics",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "autopsy",
+							"isInheritable": false,
+							"position": 20
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "logicalfile",
+							"isInheritable": false,
+							"position": 30
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "mobileforensics",
+							"isInheritable": false,
+							"position": 40
+						}
+					],
+					"attachments": [
+						{
+							"attachmentId": "ZzmOdVpwhyFG",
+							"title": "20240216_115151.jpg",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Drilske Dæknavne - EMAIL_20240.jpg"
+						},
+						{
+							"attachmentId": "2r7UW9aPENEr",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "Drilske Dæknavne - EMAIL_image.png"
+						},
+						{
+							"attachmentId": "FtWvaRqupMKL",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "1_Drilske Dæknavne - EMAIL_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "sRxw6Gc2JGWn",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"sRxw6Gc2JGWn"
+					],
+					"isClone": false,
+					"title": "Drilske Dæknavne - Address",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Drilske Dæknavne - Address.html",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "forensics",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "autopsy",
+							"isInheritable": false,
+							"position": 20
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "logicalfile",
+							"isInheritable": false,
+							"position": 30
+						},
+						{
+							"type": "label",
+							"name": "tag",
+							"value": "mobileforensics",
+							"isInheritable": false,
+							"position": 40
+						}
+					],
+					"attachments": []
+				},
+				{
+					"noteId": "NUyqHLZqBpg3",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"NUyqHLZqBpg3"
+					],
+					"isClone": false,
+					"title": "Drilske Dæknavne - Meeting",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Drilske Dæknavne - Meeting.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "znaX7D9vb2Lj",
+							"title": "12.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Drilske Dæknavne - Meeting_12."
+						},
+						{
+							"attachmentId": "GMarYyO84qyY",
+							"title": "12.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "1_Drilske Dæknavne - Meeting_12."
+						},
+						{
+							"attachmentId": "RWGi0VhaNrk1",
+							"title": "12.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "2_Drilske Dæknavne - Meeting_12."
+						},
+						{
+							"attachmentId": "oYvR9RgsBj1j",
+							"title": "12.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "3_Drilske Dæknavne - Meeting_12."
+						},
+						{
+							"attachmentId": "DmjtvUHMyJ4C",
+							"title": "12.jpg",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "4_Drilske Dæknavne - Meeting_12."
+						}
+					]
+				},
+				{
+					"noteId": "ME0vcOzHDFn5",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"ME0vcOzHDFn5"
+					],
+					"isClone": false,
+					"title": "Drilske Dæknavne - Leverance-IDer",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Drilske Dæknavne - Leverance-I.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "061K0cNqyjUu",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "Drilske Dæknavne - Leverance-I.png"
+						}
+					]
+				},
+				{
+					"noteId": "MhzWyLyJp5IR",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"MhzWyLyJp5IR"
+					],
+					"isClone": false,
+					"title": "Det Kører Som Smurt",
+					"notePosition": 60,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "Det Kører Som Smurt.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "mxOPgcjwCKYD",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "Det Kører Som Smurt_image.png"
+						},
+						{
+							"attachmentId": "Xpn0zhAbdDYe",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/png",
+							"position": 10,
+							"dataFileName": "1_Det Kører Som Smurt_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "lPwp6jyqtu6Z",
+					"notePath": [
+						"w4LG79FL4GZk",
+						"lPwp6jyqtu6Z"
+					],
+					"isClone": false,
+					"title": "En Bankrøvers Bekendelser",
+					"notePosition": 70,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dataFileName": "En Bankrøvers Bekendelser.html",
+					"noImport": false,
+					"attributes": [],
+					"attachments": []
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
