@@ -1,0 +1,45 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Det Kører Som Smurt</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Det Kører Som Smurt</h1>
+
+      <div class="ck-content">
+        <p>&nbsp;</p>
+        <p><i>DER HAR VÆRET EN SMØR TYV I NAT!!!! Tyven har stjålet 12 ton smør og er forsvundet på magisk vis... Vi har samlet lidt information om hele sagen, men det er stadig meget mystisk, men vi tror at alt informationen er lige foran vores næser! forensics_det-kører-som-smurt.zip</i>
+        </p>
+        <p>ZIP filen indeholdte en image fil “sag.img”. Jeg prøvede først med Autopsy,
+          men det ville den ikke rigtig. Dernæst prøvede jeg Binwalk som ej heller
+          kunne formå at aflæse filen. Jeg tyede til sidst til “Foremost”&nbsp;</p>
+        <p>&nbsp;</p><pre><code class="language-text-x-sh">┌──(kali㉿kali)-[~/Desktop]
+└─$ foremost -i sag.img -T                  
+Processing: sag.img
+|foundat=flag.pngUT
+**|</code></pre>
+        <p>&nbsp;</p>
+        <p>som gav dette output i “png” mappen som den kreerer: &nbsp;</p>
+        <figure
+        class="image">
+          <img style="aspect-ratio:1415/677;" src="Det Kører Som Smurt_image.png"
+          width="1415" height="677">
+          </figure>
+          <p>Sjette billede ser super interessant ud!</p>
+          <figure class="image">
+            <img style="aspect-ratio:1565/97;" src="1_Det Kører Som Smurt_image.png"
+            width="1565" height="97">
+          </figure>
+          <p>Vi får dertil flaget: <strong>DDC{klassisk_bolle_med_smør_og_ost}.</strong>
+          </p>
+      </div>
+    </div>
+  </body>
+
+</html>
