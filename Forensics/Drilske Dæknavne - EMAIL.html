@@ -1,0 +1,52 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Drilske Dæknavne - EMAIL</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Drilske Dæknavne - EMAIL</h1>
+
+      <div class="ck-content">
+        <p>&nbsp;</p>
+        <p><i>I forbindelse med en større sag om import og salg af narkotika, har man beslaglagt en mobiltelefon. Mobiltelefonen er en ældre Samsung S9, og ejes af en (knap så smart) kriminel som går under navnet "Martin Michellin" - et dæknavn, som han så fint sagde under anholdelsen med et dumt smil...</i>
+        </p>
+        <p><i>Vi mistænker at han skal aflevere noget stof til en småkriminel gadesælger ved navn "Jens Vejmand", noget stof som han får importeret snarligt. Vi har brug for at vide:</i>
+        </p>
+        <p><i>Hvilken e-mail benyter martin? Den email vil være et flag som DDC{martin@email.dk}.</i>
+        </p>
+        <p><i>Vi ved at der bliver benyttet diverse applikationer så som Snapchat, Whatsapp, SMS, opkald og lignende. Kan du undersøge telefonen?</i>
+        </p>
+        <p><i>forensics_drilske-daeknavne.7z (same for each sub-challenge)</i>
+        </p>
+        <p>&nbsp;</p>
+        <p>Jeg indlæste filsystemet som et logisk filsystem i Autopsy og fandt et
+          billede af en håndskreven note:&nbsp;</p>
+        <p>&nbsp;</p>
+        <figure class="image image-style-align-center image_resized"
+        style="width:63.82%;">
+          <img style="aspect-ratio:2000/1500;" src="Drilske Dæknavne - EMAIL_20240.jpg"
+          width="2000" height="1500">
+        </figure>
+        <p>Jeg søgte derefter “vasketøj” i Autopsy, da jeg tænkte det måtte være
+          kodeord for noget.&nbsp;</p>
+        <p>&nbsp;</p>
+        <figure class="image">
+          <img style="aspect-ratio:1630/784;" src="1_Drilske Dæknavne - EMAIL_image.png"
+          width="1630" height="784">
+        </figure>
+        <p>Jeg fandt derefter en database fil “Calendar.db” med en mail der matcher
+          den tiltaltes fornavn.&nbsp;
+          <br>Vi får dertil flaget: <strong>DDC{michellinmartin04@gmail.com}</strong>
+        </p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </body>
+
+</html>
